@@ -1,4 +1,4 @@
-##Implementation of Motion Planning on Baxter##
+#Implementation of Motion Planning on Baxter
 
 Pick and place operation of an object avoiding the obstacles on the table using Baxter Robot in simulated environment
 There are two blocks, one on each table. Each block should be picked from its current table and placed safely on the other table, starting with the red block. 
