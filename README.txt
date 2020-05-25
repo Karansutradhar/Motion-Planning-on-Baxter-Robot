@@ -1,5 +1,4 @@
-READ ME for project 4
+Instructions to run the project can be seen in presentation file.
 
-project4.mp4 is the main video showing both coordinate extraction and the pick and place.
-pickandplace.mp4 provides another view
-waypointcalculations.mp4 shows more detailed steps of finding the waypoints
+pick&place.mp4 provides the pick and place operation of the baxter robot avoiding obstacles.
+waypointscalculations.mp4 shows detailed steps of finding the waypoints.
